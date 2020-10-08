@@ -3,8 +3,9 @@ title: Sohee Lim
 role: M.S.
 avatar_filename: bio-photo.jpeg
 organizations:
-  - name: Image Processing and Intelligent Systems Lab., Chung-Ang University
+  - name: Image Processing and Intelligent Systems Lab.
     url: https://www.ipis.cau.ac.kr/
+  - name: Chung-Ang University
 superuser: true
 authors:
   - admin
@@ -27,7 +28,7 @@ education:
       institution: Graduate School of Advanced Imaging Science, Multimedia & Film,
         Chung-Ang University
       year: 2021
-    - course: BSc in Electronics and Control engineering
+    - course: BSc in Electronics and Control Engineering
       institution: Hanbat National University
       year: 2019
 user_groups:
